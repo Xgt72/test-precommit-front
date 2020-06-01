@@ -19,6 +19,7 @@ function App() {
         {' '}
         {foo}
       </p>
+      <p>Test of GitHub Actions</p>
     </div>
   );
 }
