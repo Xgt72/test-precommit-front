@@ -12,7 +12,7 @@
     "build": "react-scripts build",
     "test": "echo test",
     "eject": "react-scripts eject",
-    "lint": "npx eslint --fix *.js* src *.js*"
+    "lint": "npx eslint --fix src/**/*.js*"
   },
   "lint-staged": {
     "src/**/*.js*": "yarn lint"

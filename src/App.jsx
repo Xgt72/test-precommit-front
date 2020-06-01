@@ -11,8 +11,6 @@ function App() {
     },
   );
 
-  const TEST = 'TEST';
-
   return (
     <div>
       <h1>Hello World</h1>
